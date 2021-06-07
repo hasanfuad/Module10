@@ -1,0 +1,20 @@
+.panda-card{
+    border: 0;
+}
+
+.panda-card-footer{
+    background-color: white;
+    border: 0;
+}
+
+.carousel-bg{
+    background-color: #fceae8; 
+}
+
+.contact-info{
+    background-color: #fceae8;
+}
+
+.categories img{
+    width: 100px;
+}
